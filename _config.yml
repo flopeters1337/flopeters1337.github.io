@@ -115,9 +115,6 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:peters.florian@outlook.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "http://petersflorian.com"
 
 # Site Footer
 footer:
