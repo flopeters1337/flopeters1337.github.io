@@ -103,6 +103,9 @@ author:
   location         : "Liège, Belgium"
   email            : 
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:peters.florian@outlook.com"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/peters-florian"
@@ -112,9 +115,6 @@ author:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/petersflo1337"
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:peters.florian@outlook.com"
 
 # Site Footer
 footer:
