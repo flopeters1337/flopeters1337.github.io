@@ -1,12 +1,12 @@
 ---
 # About me page
 
+title: 'About Me'
 layout: single
 permalink: /about/
 author_profile: true
 ---
 
-# About Me
 Hello! I am a software engineer conducting research at [HEC Liège Management School](https://hec.uliege.be). My fields of interests are intelligent systems, machine learning, artificial intelligence, natural language processing, optimization and robotics. I am fluent in Python but can also speak C, C++, Java, PHP and some more exotic languages such as Scheme and Haskell.
 
 # My Mission
