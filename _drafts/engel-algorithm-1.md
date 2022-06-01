@@ -8,7 +8,7 @@ header:
     show_overlay_excerpt: false
 tags: stochastics probability mathematics programming
 ---
-Recently, I needed an algorithm to compute the hiting probabilities of absorbing states in Markov chains. The traditional way to compute them is to make use of the transition probability matrix, $$ P $$ and perform a typical LU decomposition to get the hitting probabilities.
+Recently, I needed an algorithm to compute the hitting probabilities of absorbing states in Markov chains. The traditional way to compute them is to make use of the transition probability matrix, $$ P $$ and perform a typical LU decomposition to get the hitting probabilities.
 
 On the plus side, it's a very straightforward way to get hitting probabilities.
 
@@ -20,7 +20,7 @@ There is however a neat little cooking recipe in the special case where all the 
 
 $$P_{ij} = \frac{r_{ij}}{r_i}$$
 
-The master chef who owns the credit to this probabilistic delicacy is the German mathematician [Arthur Engel](https://en.wikipedia.org/wiki/Arthur_Engel_(mathematician)) and in this collection of posts, I will show you exactly how you can cook up some delicious probabilities using his recipe. Let's heat up the oven!
+The master chef who owns the credit to this probabilistic delicacy is the German mathematician [Arthur Engel](https://en.wikipedia.org/wiki/Arthur_Engel_(mathematician)){:target="_blank"} and in this collection of posts, I will show you exactly how you can cook up some delicious probabilities using his recipe. Let's heat up the oven!
 
 ## Markov Chains: Definitely Definitive Definitions
 
