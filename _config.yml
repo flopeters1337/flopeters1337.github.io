@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "air" # "default", "air", "aqua", "contrast", "dark",
 
 # Site Settings
 locale                   : "en-US"
-title                    : "FTT"
-title_separator          : "|"
-subtitle                 : "A personal blog & portfolio" # site tagline that appears below site title in masthead
+title                    : "Geek Talks"
+title_separator          : "-"
+subtitle                 : "Byte-sized content for everyone" # site tagline that appears below site title in masthead
 name                     : "Florian Peters"
 description              : "."
 url                      : "https://petersflorian.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -26,7 +26,7 @@ baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "flopeters1337/flopeters1337.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : "Florian's Treasure Trove" # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "Geek Talks" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -98,7 +98,7 @@ analytics:
 # Site Author
 author:
   name             : "Florian Peters"
-  avatar           : "/assets/images/bio-2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-3.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Software engineer / Data scientist. I write code and tutorials. Sometimes they're even useful!"
   location         : "Liège, Belgium"
   email            : 
