@@ -11,6 +11,7 @@ author_profile: true
 Howdy! I'm Florian Peters, a software engineer working in the video game industry at Black Shamrock - a Virtuos Studio. Welcome to my personal blog! I post video game related programming tutorials and the occasional book review.
 
 ---
+
 # Background
 I grew up in Belgium, the land of beer, chocolate and fries and in 2018, I graduated from the University of Liège with a Master's degree in Computer Science and Engineering with a strong focus on machine learning, optimization and artificial intelligence.
 
