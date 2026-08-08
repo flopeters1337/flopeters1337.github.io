@@ -4,6 +4,8 @@ main:
     url: /posts/
   - title: "Projects"
     url: /projects/
+  - title: "Talks"
+    url: /talks/
   - title: "About"
     url: /about/
   # - title: "Sitemap"

@@ -93,8 +93,7 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-    - "https://twitter.com/petersflo1337"
-    - "https://www.facebook.com/RealFloPeters"
+    - "https://fpeters.itch.io/"
     - "https://www.linkedin.com/in/peters-florian"
 
 # Analytics
@@ -109,8 +108,8 @@ analytics:
 author:
   name             : "Florian Peters"
   avatar           : "/assets/images/bio-3.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Software engineer & Game developer. I write code and tutorials. Sometimes they're even useful!"
-  location         : "Liège, Belgium"
+  bio              : "Senior Software Engineer with a knack for Unreal Engine / C++ development."
+  location         : "Dublin, Ireland"
   email            : 
   links:
     - label: "Email"
@@ -122,19 +121,22 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/flopeters1337"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/petersflo1337"
+    # - label: "itch.io"
+    #   icon: "fa-brands fa-itch-io"
+    #   url: "https://fpeters.itch.io/"
 
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/petersflo1337"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/peters-florian"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/flopeters1337"
+    # - label: "itch.io"
+    #   icon: "fa-brands fa-itch-io"
+    #   url: "https://fpeters.itch.io/"
 
 
 # Reading Files
@@ -285,9 +287,20 @@ defaults:
       layout: single
       author_profile: false
       share: true
+  # _talks
+  - scope:
+      path: ""
+      type: talks
+    values:
+      layout: single
+      author_profile: false
+      share: true
 
 # Collections parameters
 collections:
   projects:
+    output: true
+    permalink: /:collection/:path
+  talks:
     output: true
     permalink: /:collection/:path
