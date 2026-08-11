@@ -12,7 +12,7 @@
 
 # theme                    : minimal-mistakes-jekyll
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "air" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -130,9 +130,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/flopeters1337"
-    # - label: "itch.io"
-    #   icon: "fa-brands fa-itch-io"
-    #   url: "https://fpeters.itch.io/"
+    - label: "itch.io"
+      icon: "fa-brands fa-itch-io"
+      url: "https://fpeters.itch.io/"
 
 # Site Footer
 footer:
@@ -143,9 +143,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/flopeters1337"
-    # - label: "itch.io"
-    #   icon: "fa-brands fa-itch-io"
-    #   url: "https://fpeters.itch.io/"
+    - label: "itch.io"
+      icon: "fa-brands fa-itch-io"
+      url: "https://fpeters.itch.io/"
 
 
 # Reading Files
