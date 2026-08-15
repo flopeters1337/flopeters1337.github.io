@@ -1,6 +1,7 @@
 ---
 title: "Multimodal Green Transport Network Optimization"
 category: talks
+date: 2021-01-01
 header:
     teaser: assets/images/multimodal-teaser.jpg
     overlay_image: assets/images/multimodal-teaser.jpg

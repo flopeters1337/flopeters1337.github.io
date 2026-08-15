@@ -9,6 +9,7 @@ header:
           url: https://fpeters.itch.io/buildzilla  
 excerpt: "A cozy kaiju re-builder game."
 category: projects
+order: 2
 ---
 
 [Buildzilla](https://fpeters.itch.io/buildzilla) is our entry for the GTMK Game Jam 2024, developed in Unreal Engine 5. It is a cozy kaiju-themed game where you have to rebuild the city of Okyo after a natural disaster. Careful where you step to not cause more destruction as you fix the city!

@@ -9,6 +9,7 @@ header:
       url: https://elderscrolls.bethesda.net/en-EU/oblivion-remastered
 excerpt: "*Close shut the jaws of Oblivion.*"
 category: projects
+order: 0
 ---
 
 [The Elder Scrolls IV: Oblivion Remastered](https://elderscrolls.bethesda.net/en-EU/oblivion-remastered) is my first credit from a AAA game where I am credited as a **Senior AI Programmer**.

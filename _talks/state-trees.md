@@ -1,6 +1,7 @@
 ---
 title: "Surviving State Tree: A Real Case Study With Dinosaurs"
 category: talks
+date: 2024-01-01
 header:
     teaser: assets/images/st-teaser.png
     overlay_image: assets/images/st-teaser.png

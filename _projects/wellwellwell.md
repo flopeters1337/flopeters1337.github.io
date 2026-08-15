@@ -9,6 +9,7 @@ header:
       url: https://fpeters.itch.io/wellwellwell
 excerpt: "A short horror game in the dark."
 category: projects
+order: 2
 ---
 
 [Well well Well](https://fpeters.itch.io/wellwellwell) is our entry for the GTMK Game Jam 2026, developed in Unreal Engine 5. It is a short horror game set in a dark maze underground. Armed with only a polaroid camera, and a limited number of photos, the player needs to take pictures to slowly illuminate the cavernous depths. But something lurks in the dark...
