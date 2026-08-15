@@ -10,10 +10,10 @@ header:
 tags: talk ai state-trees unreal-engine programming decision-making
 ---
 
+{% include video id="zovPQnq7ndE" provider="youtube" %}
+
 In 2024, I investigated a (then) new AI feature in Unreal Engine called 'State Tree'. It was still experimental back then. Most of the documentation did not exist or was of poor quality.
 The new state trees turned out to be just the right tool for the game [Goner](https://store.steampowered.com/app/1420200/GONER/) that I was assigned to.
 The game required complex interactions between autonomous game agents, but still needed to be comprehensive enough that game designers could tweak these interactions easily.
 With the guidance of my friend and colleague, Corentin Lemasson, we came up with our own custom traditional AI pipeline to fulfill those needs.
 As part of Unreal Fest Seattle 2024, we presented that pipeline in great detail.
-
-You can watch the entire talk on [YouTube](https://www.youtube.com/watch?v=zovPQnq7ndE).
